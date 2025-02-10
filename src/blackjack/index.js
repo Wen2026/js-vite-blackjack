@@ -1,5 +1,6 @@
 import _ from 'underscore';
-//import {crearDeck as crearNuevoDeck} from './usecases/crear-deck';
+// import crearDeck, { miNombre } from './usecases/crear-deck';
+// import {crearDeck as crearNuevoDeck} from './usecases/crear-deck';
 import {crearDeck,pedirCarta,valorCarta,turnoComputadora,crearCartaHTML} from './usecases'
 
 /**
